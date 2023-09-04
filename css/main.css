@@ -12,4 +12,15 @@
     padding-right: 5pc;
     padding-left: 5pc;
 }
+#poly{
+    border-style: dotted;
+    border-radius: 100pc;
+    border-color: brown;
+    height: auto;
+    width: auto;
+}
 
+
+#poly1{
+   align-items: baseline;
+}
